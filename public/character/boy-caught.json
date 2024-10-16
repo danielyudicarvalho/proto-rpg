@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "boy-caught.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 123,
+				"h": 51
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "spr_caught_strip10-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 27
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 33,
+						"h": 27
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 30,
+						"w": 27,
+						"h": 19
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 19
+					},
+					"frame": {
+						"x": 30,
+						"y": 30,
+						"w": 25,
+						"h": 19
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 18,
+						"h": 27
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 18,
+						"h": 27
+					},
+					"frame": {
+						"x": 36,
+						"y": 1,
+						"w": 18,
+						"h": 27
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 21,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 21,
+						"h": 26
+					},
+					"frame": {
+						"x": 56,
+						"y": 1,
+						"w": 21,
+						"h": 26
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 21
+					},
+					"frame": {
+						"x": 57,
+						"y": 29,
+						"w": 14,
+						"h": 21
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 19
+					},
+					"frame": {
+						"x": 73,
+						"y": 29,
+						"w": 23,
+						"h": 19
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 26
+					},
+					"frame": {
+						"x": 79,
+						"y": 1,
+						"w": 15,
+						"h": 26
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 26,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 24
+					},
+					"frame": {
+						"x": 96,
+						"y": 1,
+						"w": 26,
+						"h": 24
+					}
+				},
+				{
+					"filename": "spr_caught_strip10-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 21,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 21,
+						"h": 19
+					},
+					"frame": {
+						"x": 98,
+						"y": 27,
+						"w": 21,
+						"h": 19
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7bb2e16bcfc94a65389298b3b407fc49:5639b81bd4d1d9994d2363f9b2a4e5bf:7f2a9e6db95ef6099323ad0cd064577b$"
+	}
+}

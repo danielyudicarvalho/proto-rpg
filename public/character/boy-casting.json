@@ -1,0 +1,356 @@
+{
+	"textures": [
+		{
+			"image": "boy-casting.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 55,
+				"h": 126
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "spr_casting_strip15-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 25
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 23,
+						"h": 25
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 28,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 28,
+						"h": 19
+					},
+					"frame": {
+						"x": 26,
+						"y": 1,
+						"w": 28,
+						"h": 19
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 28,
+						"w": 20,
+						"h": 24
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 54,
+						"w": 20,
+						"h": 22
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 17,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 17,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 78,
+						"w": 17,
+						"h": 24
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 104,
+						"w": 25,
+						"h": 20
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 18
+					},
+					"frame": {
+						"x": 26,
+						"y": 22,
+						"w": 27,
+						"h": 18
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 27,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 19
+					},
+					"frame": {
+						"x": 23,
+						"y": 42,
+						"w": 27,
+						"h": 19
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 26,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 26,
+						"h": 19
+					},
+					"frame": {
+						"x": 23,
+						"y": 63,
+						"w": 26,
+						"h": 19
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 20
+					},
+					"frame": {
+						"x": 28,
+						"y": 84,
+						"w": 25,
+						"h": 20
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 20
+					},
+					"frame": {
+						"x": 28,
+						"y": 84,
+						"w": 25,
+						"h": 20
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 20
+					},
+					"frame": {
+						"x": 28,
+						"y": 84,
+						"w": 25,
+						"h": 20
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 20
+					},
+					"frame": {
+						"x": 28,
+						"y": 84,
+						"w": 25,
+						"h": 20
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 20
+					},
+					"frame": {
+						"x": 28,
+						"y": 84,
+						"w": 25,
+						"h": 20
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 20,
+						"h": 19
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 20,
+						"h": 19
+					},
+					"frame": {
+						"x": 28,
+						"y": 106,
+						"w": 20,
+						"h": 19
+					}
+				},
+				{
+					"filename": "spr_casting_strip15-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1,
+						"h": 1
+					},
+					"frame": {
+						"x": 23,
+						"y": 28,
+						"w": 1,
+						"h": 1
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b6b1b1dd3044922d1b557e99cd6dbd72:d920ae9694538bcbfe7b86e5227dc410:d3f35edc937665790d2d6fb563f5c0cc$"
+	}
+}
